@@ -3,14 +3,14 @@ import Shoes from "@/app/components/Shoes";
 import type { TShoes } from "@/app/types";
 
 export const metadata = {
-    title: "Shoes App - About Us",
+    title: "Shoes App - Home",
     description:
-        "Learn more about Shoes App, our mission, and our commitment to providing the best quality footwear and prices.",
+        "Explore our wide range of shoes with the best prices and quality.",
     openGraph: {
-        title: "Shoes App - About Us",
+        title: "Shoes App - Home",
         description:
-            "Learn more about Shoes App, our mission, and our commitment to providing the best quality footwear and prices.",
-        url: "https://shoesshopbc70.vercel.app/about",
+            "Explore our wide range of shoes with the best prices and quality.",
+        url: "https://shoesshopbc70.vercel.app",
         images: [
             {
                 url: "https://apistore.cybersoft.edu.vn/images/van-old-school.png",
@@ -22,9 +22,9 @@ export const metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Shoes App - About Us",
+        title: "Shoes App - Home",
         description:
-            "Learn more about Shoes App, our mission, and our commitment to providing the best quality footwear and prices.",
+            "Explore our wide range of shoes with the best prices and quality.",
         images: ["https://apistore.cybersoft.edu.vn/images/van-old-school.png"],
     },
 };
