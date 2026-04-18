@@ -35,6 +35,7 @@ export const metadata = {
     },
 
 };
+
 export default async function Search(props: Props) {
     console.log(props);
     const { searchParams } = props;
